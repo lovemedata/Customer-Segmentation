@@ -30,4 +30,6 @@ Trendsetters: Cluster 4
 
 Millennial Moguls: Cluster 5
 
-Each cluster is described by its size, average age, income, spending score, credit score, common card type, and common gender. These clusters were derived from customer data and can be used to target marketing strategies to specific customer groups.
+Each cluster is described by its size, average age, income, spending score, credit score, common card type, and common gender. 
+
+These clusters were derived from customer data and can be used to target marketing strategies to specific customer groups.
